@@ -1,169 +1,23 @@
 ---
 layout: post
-title: Welcome to Not Pure Poole
-date: 2020-09-29 23:18 +0800
+title: 我作《天月篇·日之四》，拖堂受害者站过来！
+date: 2025-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [古文,拖堂]
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
-{: .message }
+维时序更迭，日月如梭，今有学堂之弊，甚于水火，苦于兵燹，实乃学子心头之巨患。特以此檄，声讨拖堂之恶，以正视听，以慰众心。
+盖闻“师者，所以传道授业解惑也。”此古之良师，循循然善诱人，不愤不启，不悱不发。其教也，如春风化雨，润物无声；其时也，如日出日落，各得其所。未有闻师者贪一时之口舌，而废学子之休憩，夺天时之自然，此岂为人师表者所为乎？
+然今之庠序之中，有此一弊，名曰“拖堂”。铃声既响，课时已终，而师者巍然不动，舌灿莲花，滔滔不绝。或曰：“此题甚妙，再讲半刻。”或曰：“且慢收拾，容我补充一二。”于是乎，学子翘首以盼之课间，化为泡影；如厕之急，忍之又忍；与同窗之约，废之又废。此非但夺我休憩之权，实乃扰我身心之康，乱我学道之序。
+夫课间者，非仅为嬉戏之所，实乃调节身心、转换思维之要津。人非草木，孰能无情？人非机器，安能不休？脑力之劳，胜于体力之役。一堂既罢，神思困顿，急需片刻之松弛，以养下堂之精力。今师者只顾己之讲授，不顾生之疲乏，此乃“目中无生”之谓也。
+且夫“师道尊严”，在于德行之高，学问之深，非在于掌控时间之长短。若学问渊博，循循善诱，即便铃响言尽，余音绕梁，学子亦自不舍离去。反之，若学识浅薄，语焉不详，即便拖堂一时，亦如坐针毡，徒增厌烦。故拖堂之长短，非关学问之深浅，实乃教学艺术之缺失，时间管理之无方也。
+更有甚者，因拖堂而致连锁之祸。后堂之师，立于门外，进退维谷。欲入，则打断前师；不入，则己课受损。此乃教坛之尴尬，同僚之龃龉。至于学子，饥肠辘辘，错过餐点；或因内急，狼狈不堪。此等窘境，实非求学之乐，几同受难之刑。
+或有师者辩曰：“吾之拖堂，乃为尔等前程着想，恨铁不成钢。”噫！此诚“好心办坏事”之典型也。父母爱子，则为之计深远。师爱生，则当授之以渔，而非困之以笼。强行灌输，如填鸭之肥，终非长久之计。且铃声者，校之法度也。师者为人师表，首当遵纪守法。若师带头违制，何以教生守规？此乃上行下效，法纪废弛之源也。
+古之圣贤，教化天下，讲究“时雨化之”。何谓“时雨”？应时而降，润泽万物，不过不及。教学亦然，当如“时雨”，恰到好处，铃响即止，此乃教学之节奏，亦是生命之律动。强行拖延，犹如久旱之后，暴雨倾盆，非但不能滋润，反致洪涝之灾。此理甚明，何难之有？
+今学子之疾苦，非一日矣。望穿秋水，只待铃响；盼若救星，只为下课。然每每失望，只见师者口若悬河，不见铃声解救。长此以往，学子之求知欲，被消磨于无奈之等待；对师长之敬仰，被冲淡于频繁之拖延。此非师者之本意，实乃拖堂之恶果也。
+故今日鸣鼓而攻之，非攻师者之学问，乃攻拖堂之陋习。愿天下师者，体察生情，尊重铃声。铃响之时，即为下课之令。若有未尽之意，可留作作业，可约他时。切莫将个人之便利，凌驾于众人之权利之上。
+愿学堂之内，铃声即为圣旨，无人敢违；课间之时，学子皆得自由，休养生息。如此，则师道可兴，学风可正，人才可育，国运可昌。此檄文一出，愿拖堂之风，如冰雪遇骄阳，消融无踪。
+呜呼哀哉！尚飨！——————```《天月篇·日之四》```  
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- <mark>To highlight</mark>, use `<mark>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-## Footnotes
-
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
-
-{% highlight text %}
-Clicking this number[^fn-sample_footnote]
-{% endhighlight %}
-
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
-
-{% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-{% endhighlight %}
-
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
-
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Code
-
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
-
-{% highlight js linenos %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-Align to the center by adding `class="align-center"`:
-
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+AI生成:[地址](https://ai.quark.cn/s/8AEMY5U235GW6CqgTz?from=kkframenew_resultsearch&uc_param_str=ntnwvepffrbiprsvchutosstxs&by=submit&q=%E5%86%99%E4%B8%80%E7%AF%87%E8%AE%A8%E4%BC%90%E6%8B%96%E5%A0%82%E7%9A%84980%E5%AD%97%EF%BC%8C%E5%86%99%E5%85%A8%E6%96%87%EF%BC%8C%E7%94%A8%E6%96%87%E8%A8%80%E6%96%87&queryId=GYyB5moVolALQS0AHNMHxl2eUp1yk121wGsz5ME3mMQayPiVDpQxGu5X88GcneMp2ygAIZTfKTKxugDO30hJkSk49ZJR2)
