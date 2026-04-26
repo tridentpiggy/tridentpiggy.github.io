@@ -1,17 +1,10 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
+title: 厌学者文之一
+tags: 古文
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2026-02-02 15:32 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
+闻之不然，愈忠愈不正，心中鬼胎，如非此，大器晚成，抗师不成，反受削败。  ————《青莲子·学术·卷一》
 
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+附：JZ的B站地址[Bilibili]("https://space.bilibili.com/3546632014530944")
