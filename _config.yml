@@ -1,11 +1,11 @@
 # Setup
 title: JZ的博客
 description: Blogs For All
-url: https://vszhub.github.io
+url: https://tridentpiggy.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /back.jpg
 
 # Gems
 plugins:
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: tridentpiggy
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: JZ
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/tridentpiggy
+    - https://github.com/tridentpiggy
 google_site_verification: xxxxx
-lang: en
+lang: zh
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: JZ
+  url: https://github.com/tridentpiggy/
+  email: plokmijn31@outlook.com
