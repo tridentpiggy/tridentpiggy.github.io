@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>落柒渚之家</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar">
+            <img src="assets/avatar.png" class="avatar">
+            <h2>吾之博客</h2>
+            <p>开发者 / 博主（UP）</p>
+            <nav>
+                <div class="indicator"></div>
+                <a href="index.html">🏠 首页</a>
+                <a href="blog.html">📝 博客</a>
+            </nav>
+        </aside>
+        <main class="content">
+            <section class="card">
+                <h1>吾名落柒渚</h1>
+                <p>
+                    有朋自远方来，不亦乐乎？
+                </p>
+                <p>
+                    这里没咋记录我的开发经历AND项目。
+                </p>
+            </section>
+            <section class="card">
+                <h2>神性</h2>
+                <p>
+                    乐于C++、Web 开发、系统研究。（还有把系统搞坏）
+                </p>
+            </section>
+            <section class="card">
+                <h2>最新文章</h2>
+                <div id="latest-posts"></div>
+            </section>
+        </main>
+    </div>
+    <script src="js/posts.js"></script>
+    <script>
+        const box = document.getElementById("latest-posts");
+
+        Posts.slice(0,3).forEach(post => {
+            box.innerHTML += `
+                <article>
+                    <h3>
+                        <a href="post.html?id=${post.id}">
+                            ${post.title}
+                        </a>
+                    </h3>
+                    <p>${post.description}</p>
+                </article>
+            `;
+        });
+    </script>
+</body>
+</html>

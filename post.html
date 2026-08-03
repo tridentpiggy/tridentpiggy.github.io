@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>文章</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="layout">
+        <aside class="sidebar">
+            <img src="assets/avatar.png" class="avatar">
+            <h2>我的博客</h2>
+            <nav>
+                <a href="index.html">🏠 首页</a>
+                <a href="blog.html">📝 博客</a>
+            </nav>
+        </aside>
+        <main class="content">
+            <article class="card">
+                <div id="article">
+                    加载中...
+                </div>
+            </article>
+        </main>
+    </div>
+    <script src="js/posts.js"></script>
+    <script src="js/markdown.js"></script>
+    <script>
+        const id = new URLSearchParams(location.search).get("id");
+        const post = Posts.find(item => item.id === id);
+
+        if (post) {
+            document.title = post.title;
+
+            fetch("posts/" + post.file)
+                .then(response => response.text())
+                .then(markdown => {
+                    document.getElementById("article").innerHTML =
+                        Markdown(markdown);
+                });
+        } else {
+            document.getElementById("article").innerHTML =
+                "<h1>文章不存在</h1>";
+        }
+    </script>
+</body>
+</html>
